@@ -1,0 +1,43 @@
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.exe.config
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.exe
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.pdb
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\KaymakGames.dll
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\KaymakGames.pdb
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.exe
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.pdb
+C:\Users\valer\Desktop\ServerApp\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.exe.config
+C:\Users\valer\Desktop\ServerApp\MMORPG Tutorial\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.exe
+C:\Users\valer\Desktop\ServerApp\MMORPG Tutorial\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.pdb
+C:\Users\valer\Desktop\ServerApp\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.exe
+C:\Users\valer\Desktop\ServerApp\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.pdb
+C:\Users\valer\Desktop\ServerApp\MMORPG Tutorial\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.csprojResolveAssemblyReference.cache
+C:\Users\valer\Desktop\ServerApp\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\KaymakGames.dll
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base à garder tel quel pour modif\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.exe.config
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base à garder tel quel pour modif\MMORPG Tutorial\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.exe
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base à garder tel quel pour modif\MMORPG Tutorial\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.pdb
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base à garder tel quel pour modif\MMORPG Tutorial\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.csprojResolveAssemblyReference.cache
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base à garder tel quel pour modif\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.exe
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base à garder tel quel pour modif\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.pdb
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base à garder tel quel pour modif\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\KaymakGames.dll
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base - POUR MODIF\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.exe.config
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base - POUR MODIF\MMORPG Tutorial\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.exe
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base - POUR MODIF\MMORPG Tutorial\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.pdb
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base - POUR MODIF\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.exe
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base - POUR MODIF\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.pdb
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base - POUR MODIF\MMORPG Tutorial\Server\MMORPG_SERVER\bin\Debug\KaymakGames.dll
+C:\Users\valer\OneDrive\Documents\Projects\Server\Server de base - POUR MODIF\MMORPG Tutorial\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.csprojResolveAssemblyReference.cache
+C:\Users\Moe\Desktop\TestExterne\editor\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.exe.config
+C:\Users\Moe\Desktop\TestExterne\editor\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.exe
+C:\Users\Moe\Desktop\TestExterne\editor\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.pdb
+C:\Users\Moe\Desktop\TestExterne\editor\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.exe
+C:\Users\Moe\Desktop\TestExterne\editor\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.pdb
+C:\Users\Moe\Desktop\TestExterne\editor\Server\MMORPG_SERVER\bin\Debug\KaymakGames.dll
+C:\Users\Moe\Desktop\TestExterne\editor\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.csprojResolveAssemblyReference.cache
+C:\Users\valer\OneDrive\Documents\Projects\Server\FINAL FONCTIONNEL\MAJ-Serv-Cleint\editor\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.exe.config
+C:\Users\valer\OneDrive\Documents\Projects\Server\FINAL FONCTIONNEL\MAJ-Serv-Cleint\editor\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.exe
+C:\Users\valer\OneDrive\Documents\Projects\Server\FINAL FONCTIONNEL\MAJ-Serv-Cleint\editor\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.pdb
+C:\Users\valer\OneDrive\Documents\Projects\Server\FINAL FONCTIONNEL\MAJ-Serv-Cleint\editor\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.exe
+C:\Users\valer\OneDrive\Documents\Projects\Server\FINAL FONCTIONNEL\MAJ-Serv-Cleint\editor\Server\MMORPG_SERVER\bin\Debug\MMORPG_SERVER.pdb
+C:\Users\valer\OneDrive\Documents\Projects\Server\FINAL FONCTIONNEL\MAJ-Serv-Cleint\editor\Server\MMORPG_SERVER\bin\Debug\KaymakGames.dll
+C:\Users\valer\OneDrive\Documents\Projects\Server\FINAL FONCTIONNEL\MAJ-Serv-Cleint\editor\Server\MMORPG_SERVER\obj\Debug\MMORPG_SERVER.csprojResolveAssemblyReference.cache

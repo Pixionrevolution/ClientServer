@@ -1,0 +1,10 @@
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\ByteBuffer\bin\Debug\ByteBuffer.dll
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\ByteBuffer\bin\Debug\ByteBuffer.pdb
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\ByteBuffer\obj\Debug\ByteBuffer.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\ByteBuffer\obj\Debug\ByteBuffer.dll
+C:\Users\Kevin\Desktop\MMORPG Tutorial\Server\ByteBuffer\obj\Debug\ByteBuffer.pdb
+C:\Users\Moe\Desktop\TestExterne\editor\Server\ByteBuffer\bin\Debug\ByteBuffer.dll
+C:\Users\Moe\Desktop\TestExterne\editor\Server\ByteBuffer\bin\Debug\ByteBuffer.pdb
+C:\Users\Moe\Desktop\TestExterne\editor\Server\ByteBuffer\obj\Debug\ByteBuffer.csprojResolveAssemblyReference.cache
+C:\Users\Moe\Desktop\TestExterne\editor\Server\ByteBuffer\obj\Debug\ByteBuffer.dll
+C:\Users\Moe\Desktop\TestExterne\editor\Server\ByteBuffer\obj\Debug\ByteBuffer.pdb
